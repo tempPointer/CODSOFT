@@ -1,6 +1,6 @@
 //Hrushiraj Gandhi
-// #include<stdio.h>
-// #include<stdbool.h>
+ #include<stdio.h>
+#include<stdbool.h>
 #include<iostream>
 using namespace std;
 
